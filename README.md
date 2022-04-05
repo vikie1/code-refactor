@@ -37,3 +37,7 @@ console.log(result);
 ```
 
 2. Implement node cluster and ensure the app still runs as expected
+
+## Running the Application
+
+To run the REST API, in the root folder run `node .` or `node index.js`
